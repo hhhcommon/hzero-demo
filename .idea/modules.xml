@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo-admin/demo-admin.iml" filepath="$PROJECT_DIR$/demo-admin/demo-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-config/demo-config.iml" filepath="$PROJECT_DIR$/demo-config/demo-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-gateway/demo-gateway.iml" filepath="$PROJECT_DIR$/demo-gateway/demo-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-iam/demo-iam.iml" filepath="$PROJECT_DIR$/demo-iam/demo-iam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-oauth/demo-oauth.iml" filepath="$PROJECT_DIR$/demo-oauth/demo-oauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-parent/demo-parent.iml" filepath="$PROJECT_DIR$/demo-parent/demo-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-platform/demo-platform.iml" filepath="$PROJECT_DIR$/demo-platform/demo-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-register/demo-register.iml" filepath="$PROJECT_DIR$/demo-register/demo-register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-swagger/demo-swagger.iml" filepath="$PROJECT_DIR$/demo-swagger/demo-swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hzero-demo.iml" filepath="$PROJECT_DIR$/.idea/hzero-demo.iml" />
+    </modules>
+  </component>
+</project>
