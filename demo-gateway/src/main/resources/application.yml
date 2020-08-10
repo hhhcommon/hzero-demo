@@ -208,6 +208,11 @@ spring:
         uri: lb://hzero-hap
         predicates:
         - Path=/hap/**
+      - id: product
+        uri: lb://hzero-product-service
+        predicates:
+        - Path=/v1/**
+
 
 server:
   undertow:
