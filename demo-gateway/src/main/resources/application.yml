@@ -212,6 +212,10 @@ spring:
         uri: lb://hzero-product-service
         predicates:
         - Path=/product/**
+      - id: order
+        uri: lb://hzero-order-service
+        predicates:
+        - Path=/order/**
 
 
 server:
